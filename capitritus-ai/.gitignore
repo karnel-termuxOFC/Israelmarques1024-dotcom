@@ -1,6 +1,0 @@
-cactus/
-llama.cpp/
-.venv/
-__pycache__/
-*.pyc
-llama-server.log
